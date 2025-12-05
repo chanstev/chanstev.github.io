@@ -3,8 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Multi-Cloud Data & AI Architect and UK Global Talent Visa Ambassador.
+Technology moves fast. But we shouldn't lose sight of what makes us human.
 
-I write about tech, AI, global talent, and Asians in tech. Sometimes movies and horses too.
+This blog is where I share thoughts on tech, AI, global talent, and Asians in tech. Sometimes movies and horses too. Not from a corporate perspective, but from someone in the trenches building systems, navigating borders, and trying to stay grounded.
+
+This is my personal space—for exploring ideas, making mistakes, and learning in public.
 
 **Keep learning, stay human.**

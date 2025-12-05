@@ -1,5 +1,5 @@
 ---
-title: "Start governing AI by including ethical principles in existing EA framework"
+title: "AI Governance and Ethical Principles"
 date: 2019-06-17
 categories:
   - Tech
@@ -10,7 +10,11 @@ tags:
   - best-practices
   - responsible-ai
 ---
+
+# Start governing AI by including ethical principles in existing EA framework
+
 ![Start governing AI by including ethical principles in existing EA framework](/assets/images/posts/2019-06-17-start-ai-governing.png)
+
 ([Chinese version is published in Oriental Daily on the same day](https://orientaldaily.on.cc/cnt/finance/20190617/00275_001.html))
 
 With the rapid development of cloud platforms and machine learning, Artificial Intelligence (AI) is being applied to many aspects of our daily life.
