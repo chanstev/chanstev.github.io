@@ -113,9 +113,9 @@ search: true
 comments:
   provider: "giscus"
   giscus:
-    repo_id: # "your-repo-id"
-    category_name: # "General"
-    category_id: # "your-category-id"
+    repo_id: "R_kgDOQjFhNg"
+    category_name: "General"
+    category_id:  "DIC_kwDOQjFhNs4Czc2p"
     discussion_term: "pathname"
     reactions_enabled: "1"
     theme: "light"
