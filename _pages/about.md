@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Hi, I'm Steven Chan. Multi-Cloud Data & AI Architect and UK Global Talent Visa Ambassador.
+Multi-Cloud Data & AI Architect and UK Global Talent Visa Ambassador.
 
 I write about tech, AI, global talent, and Asians in tech. Sometimes movies and horses too. Everything here is my personal view.
 

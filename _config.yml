@@ -29,9 +29,9 @@ plugins:
 
 # Site Author
 author:
-  name: "Steven Chan"
-  # avatar: https://avatars.githubusercontent.com/u/22254955
-  bio: "Tech enthusiast. Lifelong learner. Passionate about AI and its impact on humanity."
+  # name: "Steven Chan"
+  avatar: https://avatars.githubusercontent.com/u/22254955
+  bio: "Cloud & AI Architect. Lifelong learner. Passionate about AI and its impact on humanity."
   location: "United Kingdom"
   links:
     - label: "GitHub"
