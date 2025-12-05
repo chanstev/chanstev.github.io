@@ -2,12 +2,12 @@
 title: "Stay Human"
 date: 2025-12-05
 categories:
-  - personal
-  - asians-in-tech
+  - Culture
 tags:
-  - thoughts
-  - AI
-  - culture
+  - asians-in-tech
+  - ai-ethics
+  - community
+  - identity
 ---
 
 AI cannot replace us, as humans, in connecting with each other. That's the true value of being human. The holy grail, in my opinion.
