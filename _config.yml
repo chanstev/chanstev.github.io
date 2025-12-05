@@ -3,14 +3,14 @@ remote_theme: mmistakes/minimal-mistakes@4.26.2
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Information
-title: "Stay Human"
-subtitle: "Steven Chan's Thoughts"
+title: "Steve's Thoughts"
+subtitle: "Stay Human"
 name: "Steven Chan"
 description: "Thoughts on tech, AI, and staying human. By Steven Chan."
 url: "https://chanstev.github.io"
 baseurl: ""
 repository: "chanstev/chanstev.github.io"
-masthead_title: "Stay Human"
+masthead_title: "Steve's Thoughts"
 
 # Build settings
 markdown: kramdown
@@ -31,7 +31,7 @@ plugins:
 author:
   name: "Steven Chan"
   avatar: https://avatars.githubusercontent.com/u/22254955
-  bio: "Multi-Cloud Data & AI Architect | UK Global Talent Visa Ambassador | Movie & Horse Lover | Stay Human"
+  bio: "Multi-Cloud Data & AI Architect. Stay Human."
   location: "United Kingdom"
   links:
     - label: "GitHub"
@@ -39,7 +39,7 @@ author:
       url: "https://github.com/chanstev"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/chanstev" # Update with your LinkedIn URL
+      url: "https://linkedin.com/in/chanstev"
 
 # Navigation
 header_pages:
@@ -53,6 +53,14 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chanstev"
+
+# Copyright
+copyright: "Steven Chan"
+copyright_url: "https://chanstev.github.io"
+
+# Atom feed settings
+atom_feed:
+  hide: false
 
 # Reading Files
 include:
@@ -124,3 +132,7 @@ comments:
     discussion_term: "pathname"
     reactions_enabled: "1"
     theme: "light"
+
+# Copyright
+copyright: "Steven Chan"
+copyright_url: "https://chanstev.github.io"

@@ -1,5 +1,5 @@
 ---
-title: "Songs, Food, and Human Connection"
+title: "Stay Human"
 date: 2025-12-05
 categories:
   - personal
