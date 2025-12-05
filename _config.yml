@@ -3,12 +3,14 @@ remote_theme: mmistakes/minimal-mistakes@4.26.2
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Information
-title: "My Blog"
-name: "Your Name"
-description: "A simple blog using GitHub Pages"
+title: "Stay Human"
+subtitle: "Steven Chan's Thoughts"
+name: "Steven Chan"
+description: "Thoughts on tech, AI, and staying human. By Steven Chan."
 url: "https://chanstev.github.io"
-baseurl: "/blog"
-repository: "chanstev/blog"
+baseurl: ""
+repository: "chanstev/chanstev.github.io"
+masthead_title: "Stay Human"
 
 # Build settings
 markdown: kramdown
@@ -27,14 +29,23 @@ plugins:
 
 # Site Author
 author:
-  name: "Your Name"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Welcome to my blog"
-  location: # e.g. "Somewhere"
+  name: "Steven Chan"
+  avatar: https://avatars.githubusercontent.com/u/22254955
+  bio: "Multi-Cloud Data & AI Architect | UK Global Talent Visa Ambassador | Movie & Horse Lover | Stay Human"
+  location: "United Kingdom"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chanstev"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/chanstev" # Update with your LinkedIn URL
+
+# Navigation
+header_pages:
+  - _pages/about.md
+  - _pages/categories.md
+  - _pages/tags.md
 
 # Site Footer
 footer:

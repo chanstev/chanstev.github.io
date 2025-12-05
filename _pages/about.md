@@ -3,4 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-Welcome to my blog! This is where I share my thoughts and ideas.
+Hi, I'm Steven Chan. Multi-Cloud Data & AI Architect and UK Global Talent Visa Ambassador.
+
+I write about tech, AI, global talent, and Asians in tech. Sometimes movies and horses too. Everything here is my personal view.
+
+**Stay Human.**
+
+---
+
+*All opinions are my own and don't represent any employer or organization.*
