@@ -47,7 +47,7 @@ footer:
 
 # Atom feed settings
 atom_feed:
-  hide: false
+  hide: true
 
 # Reading Files
 include:
