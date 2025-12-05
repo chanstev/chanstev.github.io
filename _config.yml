@@ -3,9 +3,9 @@ remote_theme: mmistakes/minimal-mistakes@4.26.2
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Information
-title: "Stay Human"
-subtitle: ""
-name: "Steve's Thoughts"
+title: "Steve's Thoughts"
+subtitle: "Stay Human"
+name: "Steven Chan"
 description: "Thoughts on tech, AI, and staying human. By Steven Chan."
 url: "https://chanstev.github.io"
 baseurl: ""
