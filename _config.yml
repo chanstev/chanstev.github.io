@@ -30,8 +30,8 @@ plugins:
 # Site Author
 author:
   name: "Steven Chan"
-  avatar: https://avatars.githubusercontent.com/u/22254955
-  bio: "Multi-Cloud Data & AI Architect. Stay Human."
+  # avatar: https://avatars.githubusercontent.com/u/22254955
+  bio: "Multi-Cloud Data & AI Architect. Tech enthusiast. Lifelong learner. Passionate about AI and its impact on humanity."
   location: "United Kingdom"
   links:
     - label: "GitHub"
@@ -41,22 +41,12 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/chanstev"
 
-# Navigation
-header_pages:
-  - _pages/about.md
-  - _pages/categories.md
-  - _pages/tags.md
-
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chanstev"
-
-# Copyright
-copyright: "Steven Chan"
-copyright_url: "https://chanstev.github.io"
 
 # Atom feed settings
 atom_feed:
